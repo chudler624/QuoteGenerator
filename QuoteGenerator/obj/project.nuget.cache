@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArGap8s/lrN+p00kQ3BmtTEqX+cqx7Q12jcicevOjxEWNx4MbLhMQkVu5CoLOl5PBspcCNpr/4JaVN8jyDOyuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chudl\\Desktop\\Final Project\\QuoteGenerator\\QuoteGenerator\\QuoteGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chudl\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\chudl\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\chudl\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

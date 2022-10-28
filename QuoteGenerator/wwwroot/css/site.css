@@ -1,0 +1,30 @@
+html {
+  font-size: 14px;
+}
+
+#quote{
+    text-align:center;
+    font-family:Arial
+}
+
+#author{
+    text-align: center;
+    font-family:Arial
+}
+
+button {
+    display: inline-block;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button{
+    text-align:center;
+}
